@@ -1,0 +1,3 @@
+# djangogreen
+
+Quick test environment showing Django / gunicorn behaviour with async workers
